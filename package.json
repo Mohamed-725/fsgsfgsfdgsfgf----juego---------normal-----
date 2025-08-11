@@ -1,0 +1,21 @@
+{
+  "name": "3d-tower-defense",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0",
+    "@react-three/fiber": "^8.0.27",
+    "@react-three/drei": "^9.52.2"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
